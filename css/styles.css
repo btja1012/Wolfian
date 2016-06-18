@@ -1,0 +1,27 @@
+button{
+    border: none;
+    background-color: #9C27B0;
+    color: #fff;
+    float: right;
+    margin: 5px;
+}
+
+input{
+    width: 300px;
+    float: center;
+    margin: 5px;
+
+}
+.book{
+	background-color: black;
+	width: 500px;
+	height: 500px;
+	text-align: left;
+	color:blue;
+	box-sizing: border-box;
+	overflow: hidden;
+	margin: 0 auto
+
+
+
+}
